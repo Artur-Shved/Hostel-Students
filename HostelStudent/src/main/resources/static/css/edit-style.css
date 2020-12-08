@@ -1,0 +1,164 @@
+body{
+    background-color: #3A3A3A;
+}
+
+/*#header{
+    padding: 0;
+    margin: 0;
+    background-color: #F0EAD6;
+
+}
+
+#header li{
+
+    /*margin-left: 3%;*/
+/*    list-style: none;
+    display: inline-block;
+}*/
+#header li a{
+
+    text-decoration: none;
+    list-style: none;
+    position: relative;
+    font-size: 18px;
+    display: block;
+    overflow: hidden;
+    padding: 10px 30px;
+    text-transform: uppercase;
+    transition: 0.9s all;
+    color:#8DA399;
+    background-color: #3A3A3A;
+}
+
+body{
+    background-color: #888888;
+}
+input[type=text]{
+    background: #F0EAD6;
+    -webkit-box-shadow: inset 2px 2px 6px black;
+    border: 1px solid darkgray;
+    border-radius: 4px;
+    transition: 1s;
+    height: 23px;
+    width: 67%;
+    margin-bottom: 30px;
+
+
+}
+input[type=text]:hover{
+    background: #888888;
+    color:white;
+}
+
+input[type=password]{
+    background: #F0EAD6;
+    -webkit-box-shadow: inset 2px 2px 6px black;
+    border: 1px solid darkgray;
+    border-radius: 4px;
+    transition: 1s;
+    height: 23px;
+    width: 67%;
+    margin-bottom: 30px;
+
+}
+input[type=password]:hover{
+    background: #888888;
+}
+h1{
+    color: #8DA399;
+    font-family: sans-serif;
+    text-shadow:1px 1px 1px black;
+    text-align: center;
+}
+td.text{
+    color:white ;
+    font-family: sans-serif;
+    text-shadow: 2px 2px 6px black;;
+}
+#button{
+    position: absolute;
+    margin-top: -2.6%;
+    margin-left: 90%;
+}
+input[type=submit]{
+    height: 35px;
+    width: 68px;
+    background: #3A3A3A;
+    transition: 1s;
+    color: white;
+    font-size: 15px;
+    border: 1px solid white;
+    border-radius: 5px;
+
+}
+input[type=submit]:hover{
+    background: #8DA399;
+    color: #F0EAD6;
+    box-shadow: inset 1px 1px 4px black;
+}
+
+div.content{
+    margin: 0 auto;
+    width: 45%;
+}
+
+.bar{
+    color:red;
+}
+
+#registrationForm{
+    width:30%;
+    background-color: white;
+    margin: 5% auto;
+}
+
+#content{
+    border:3px solid #0000;
+    margin-left:20%;
+
+
+}
+
+#registrationForm h2{
+    color: #6D7678;
+}
+
+#registrationForm label{
+    color: #6D7678;
+}
+
+#header ul{
+    background-color: #3A3A3A;
+    margin-top: -1%;
+    padding-bottom: 1%;
+}
+
+#header li{
+    list-style: none;
+    display: inline-block;
+    padding-top: 1%;
+}
+
+#header li a{
+
+    text-decoration: none;
+    list-style: none;
+    position: relative;
+    font-size: 18px;
+    display: block;
+    overflow: hidden;
+    padding: 10px 50px;
+    text-transform: uppercase;
+    transition: 0.9s all;
+
+    color:white;
+}
+
+#header li a:hover{
+    color:#006464;
+}
+
+#message-style{
+    color: red;
+}
+
